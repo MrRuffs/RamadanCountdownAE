@@ -1,0 +1,52 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    background-color: #282c34;
+    color: #61dafb;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #20232a;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #61dafb;
+    text-decoration: none;
+}
+
+.countdown-container, .directory-container {
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #61dafb;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+.countdown {
+    font-size: 40px;
+    margin-top: 20px;
+}
